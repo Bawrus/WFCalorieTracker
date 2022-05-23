@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "248ee913-df8a-4fb6-aea9-a56bd893b9cb": {
+      "ProjectGuid": "248ee913-df8a-4fb6-aea9-a56bd893b9cb",
+      "DisplayName": "WFCalorieTracker",
+      "ColorIndex": 0
+    },
+    "8a9f3ddf-838e-4b5a-a1a3-cb16ae341e30": {
+      "ProjectGuid": "8a9f3ddf-838e-4b5a-a1a3-cb16ae341e30",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "3b729dbc-710a-425b-8277-fa9cda6a9175": {
+      "ProjectGuid": "3b729dbc-710a-425b-8277-fa9cda6a9175",
+      "DisplayName": "ApplicationLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
