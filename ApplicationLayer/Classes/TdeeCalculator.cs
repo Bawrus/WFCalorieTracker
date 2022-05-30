@@ -8,25 +8,18 @@ namespace BusinessLayer.Classes
 {
     public class TdeeCalculator
     {
-        private User appUser;
-        
-        public double CalculateBMR(int weight, int height, int age)
+        public double CalculateBMR(User user)
         {
-            weight = appUser.getWeight;
-            height = appUser.getHeight;
-            age = appUser.getAge;
-
-            double output = 10 * weight + Math.Round(6.25 * height, 0) - 5 * age;
+            double output = 10 * user.getWeight + Math.Round(6.25 * user.getHeight, 0) - 5 * user.getAge;
 
             return output;
         }
 
-        public double CalculateActivityMultiplier(string activityLevel)
+        public double CalculateActivityMultiplier(User user)
         {
-            activityLevel = appUser.getActivityLevel;
             double output;
 
-            switch (activityLevel)
+            switch (user.getActivityLevel)
             {
                 case "Sedentary":
                     output = 1.2;
@@ -51,10 +44,10 @@ namespace BusinessLayer.Classes
             return output;
         }
 
-        public double CalculateTDEE(double BMR, double activityLevelMultiplier)
+        public double CalculateTDEE(double BMR, double activityLevelMultiplier, User user)
         {
-            BMR = CalculateBMR(appUser.getWeight, appUser.getHeight, appUser.getAge);
-            activityLevelMultiplier = CalculateActivityMultiplier(appUser.getActivityLevel);
+            BMR = CalculateBMR(user);
+            activityLevelMultiplier = CalculateActivityMultiplier(user);
             double output = BMR * activityLevelMultiplier;
 
             return output;

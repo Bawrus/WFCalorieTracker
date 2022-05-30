@@ -21,5 +21,11 @@ namespace BusinessLayer.Classes
         {
             this.weeklyWeightLoss = weeklyWeightLoss;
         }
+
+        public WeightGoal(double weeklyWeightLoss, int goalWeight)
+        {
+            this.weeklyWeightLoss = weeklyWeightLoss;
+            this.goalWeight = goalWeight;
+        }
     }
 }

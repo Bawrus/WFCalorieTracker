@@ -16,3 +16,9 @@ C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepspro
 C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\obj\Debug\net6.0-windows\GUILayer.pdb
 C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\obj\Debug\net6.0-windows\GUILayer.genruntimeconfig.cache
 C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\obj\Debug\net6.0-windows\ref\GUILayer.dll
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\bin\Debug\net6.0-windows\BusinessLayer.deps.json
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\bin\Debug\net6.0-windows\BusinessLayer.runtimeconfig.json
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\bin\Debug\net6.0-windows\BusinessLayer.exe
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\WFCalorieTracker\obj\Debug\net6.0-windows\GUILayer.csproj.CopyComplete

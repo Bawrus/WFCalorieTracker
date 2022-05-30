@@ -1,0 +1,15 @@
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\bin\Debug\net6.0\BusinessLayer.exe
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\robee\Dropbox\School\Software Semester 2 (S2)\beroepsproduct\beroepsproduct backup\WFCalorieTracker\ApplicationLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

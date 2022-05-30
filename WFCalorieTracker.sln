@@ -4,10 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUILayer", "WFCalorieTracker\GUILayer.csproj", "{248EE913-DF8A-4FB6-AEA9-A56BD893B9CB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B729DBC-710A-425B-8277-FA9CDA6A9175} = {3B729DBC-710A-425B-8277-FA9CDA6A9175}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8A9F3DDF-838E-4B5A-A1A3-CB16AE341E30}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "ApplicationLayer\BusinessLayer.csproj", "{3B729DBC-710A-425B-8277-FA9CDA6A9175}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8A9F3DDF-838E-4B5A-A1A3-CB16AE341E30} = {8A9F3DDF-838E-4B5A-A1A3-CB16AE341E30}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

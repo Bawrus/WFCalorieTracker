@@ -17,6 +17,7 @@ namespace BusinessLayer.Classes
         private int height;
         private string sex;
         private string activityLevel;
+        private WeightGoal goal;
 
         // getters
         public int UserID
@@ -58,6 +59,11 @@ namespace BusinessLayer.Classes
             get { return weight; }
         }
 
+        public WeightGoal getWeightGoal
+        {
+            get { return goal; }
+        }
+
 
 
         // setters
@@ -85,6 +91,11 @@ namespace BusinessLayer.Classes
             set { weight = value; }
         }
 
+        public int setHeight
+        {
+            set { height = value; }
+        }
+
         public string setSex
         {
             set { sex = value; }
@@ -94,8 +105,6 @@ namespace BusinessLayer.Classes
         {
             set { activityLevel = value; }
         }
-
-
 
         //constructors
         public User(string userName, string passWord)
@@ -129,6 +138,16 @@ namespace BusinessLayer.Classes
             this.weight = weight;
             this.sex = sex;
             this.activityLevel = activityLevel;
+        }
+
+        public User(int age, int weight, int height, string sex, string activityLevel, WeightGoal weightGoal)
+        {
+            this.age = age;
+            this.weight = weight;
+            this.height = height;
+            this.sex = sex;
+            this.activityLevel = activityLevel;
+            this.goal = weightGoal;
         }
 
     }
